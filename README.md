@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Project: 
   Simple Quiz Game on a 20x4 LCD Display using PIC18F452
 
@@ -57,3 +58,6 @@ The available tasks are:
 - Blink LED
 - Swap LED
 >>>>>>> s/main
+=======
+
+>>>>>>> e97152971bb375ff4f8a9a3b483eccbbed4bf63e
